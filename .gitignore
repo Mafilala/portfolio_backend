@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+.b_env/
+env/
+venv/
+ENV/
+.venv/
+env.bak/
+env.bak/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Alembic migration
+alembic/versions/*.pyc
+alembic/versions/__pycache__/
+
+# Mypy cache
+.mypy_cache/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# MacOS specific files
+.DS_Store
